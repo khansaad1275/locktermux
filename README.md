@@ -7,7 +7,7 @@ Basic Login system for termux that will protect your termux from your friends as
 ## One Click Installation👾:
 
 Just visit below website (it will not take more then 30 seconds)
-visit : www.learntermux.tech
+<br>visit : www.learntermux.tech
 
 
 ## Installation
