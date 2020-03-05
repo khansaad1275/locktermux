@@ -1,5 +1,3 @@
-<br><img src="https://images6.alphacoders.com/314/thumb-1920-314645.jpg"></img>
-
 # Login
 
 ## Description
@@ -19,7 +17,7 @@ apt install python2
 apt install bash
 apt install git
 git clone https://github.com/dildoteam/locktermux
-cd Termux-login
+cd locktermux
 bash setup.sh
 set you password
 ```
