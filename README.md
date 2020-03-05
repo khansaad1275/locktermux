@@ -1,14 +1,18 @@
-# Login
+# Termux-Login
 
 ## Description
 
-Advanced login system for termux  
-Now, only support password
+Basic Login system for termux that will protect your termux from your friends as well as people who have access to your phone.💀
+
+## One Click Installation👾:
+
+Just visit below website (it will not take more then 30 seconds)
+visit : www.learntermux.tech
+
 
 ## Installation
 
-You need git to clone this repository and python to run program  
-if you have git and python installed you can skip line 2
+Just copy and Paste below code one by one and it will be installed on your system.
 
 ```shell
 apt update
