@@ -16,9 +16,9 @@ if [ $passone = $passtwo ];
 then
 	touch /data/data/com.termux/files/usr/share/login/.pass
 	python -c "import hashlib; print(hashlib.sha1(b'$passone').hexdigest())" > /data/data/com.termux/files/usr/share/login/.pass
-	echo 'Login installed'
+	echo 'Login data accepted'
 
 elif [ $passone != $passtwo ];
 then
-	echo 'Password dont match'
+	echo 'Passwords dont match'
 fi
